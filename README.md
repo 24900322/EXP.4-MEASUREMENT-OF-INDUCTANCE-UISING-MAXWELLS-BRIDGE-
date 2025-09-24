@@ -45,4 +45,8 @@ STEP 8 : Click on   RESET  button to reset the webpage.
 
     R2 = minimum we will neglect it
 
+<img width="826" height="403" alt="Screenshot 2025-09-24 210323" src="https://github.com/user-attachments/assets/01d69fd9-1f5e-4eb9-85d3-de097dab995a" />
+
   ## Result: 
+
+Measurement of unknown inductance using a Maxwell’s Bridge is completed.
